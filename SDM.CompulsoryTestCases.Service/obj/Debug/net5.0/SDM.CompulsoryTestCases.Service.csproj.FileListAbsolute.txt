@@ -1,0 +1,12 @@
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\bin\Debug\net5.0\SDM.CompulsoryTestCases.Service.deps.json
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\bin\Debug\net5.0\SDM.CompulsoryTestCases.Service.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\bin\Debug\net5.0\ref\SDM.CompulsoryTestCases.Service.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\bin\Debug\net5.0\SDM.CompulsoryTestCases.Service.pdb
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.AssemblyInfo.cs
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\ref\SDM.CompulsoryTestCases.Service.dll
+C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\obj\Debug\net5.0\SDM.CompulsoryTestCases.Service.pdb

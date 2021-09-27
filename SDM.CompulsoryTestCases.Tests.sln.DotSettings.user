@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b65e12af_002D1d9f_002D4935_002Da686_002D101493ea329a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest2.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest3.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest4.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest5.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest6.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest7.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest8.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest10.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AA4D1E53-9A58-4DE3-911F-AF7B2FA5E912/f:UnitTest11.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
