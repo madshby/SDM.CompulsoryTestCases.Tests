@@ -13,12 +13,23 @@ namespace SDM.CompulsoryTestCases.Tests
             _reviewService = new ReviewService();
         }
         
-        //Test: GetMostProductiveReviewers Method
+        //Test: GetTopRatedMovies Method
 
         [Test]
-        public void TestList()
+        public void TestInputListLength()
         {
-            //TODO: Do this
+            var expectedResult = 3;
+            var input = 3;
+            var result = _reviewService.GetTopRatedMovies(input).Count;
+            Assert.That(result,Is.EqualTo(expectedResult));
+        }
+        [Test]
+        public void TestListNumbers()
+        {
+            var expectedResult = new List<int>(){666666,822109,2207774,372233,814701};
+            var input = 5;
+            var result = _reviewService.GetTopRatedMovies(input);
+            Assert.That(result,Is.EqualTo(expectedResult));
         }
     }
 }
