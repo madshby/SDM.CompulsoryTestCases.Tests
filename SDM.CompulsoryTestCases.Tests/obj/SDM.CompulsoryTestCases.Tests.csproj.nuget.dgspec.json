@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj": {}
+    "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj": {
+    "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
+        "projectUniqueName": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
         "projectName": "SDM.CompulsoryTestCases.Service",
-        "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
-        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\obj\\",
+        "projectPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
+        "packagesPath": "C:\\Users\\harby\\.nuget\\packages\\",
+        "outputPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\harby\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -38,6 +38,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -58,21 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Christian\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\harby\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj": {
+    "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
+        "projectUniqueName": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
         "projectName": "SDM.CompulsoryTestCases.Tests",
-        "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
-        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\obj\\",
+        "projectPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
+        "packagesPath": "C:\\Users\\harby\\.nuget\\packages\\",
+        "outputPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\harby\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -84,8 +92,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj": {
-                "projectPath": "C:\\Users\\Christian\\Documents\\RiderProjects\\thirdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj"
+              "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj": {
+                "projectPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj"
               }
             }
           }
@@ -100,6 +108,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.9.4, )"
@@ -132,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Christian\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\harby\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

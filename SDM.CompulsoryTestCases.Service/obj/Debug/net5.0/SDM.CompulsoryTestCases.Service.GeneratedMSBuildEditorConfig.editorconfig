@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SDM.CompulsoryTestCases.Service
-build_property.ProjectDir = C:\Users\Christian\Documents\RiderProjects\thirdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\
+build_property.ProjectDir = C:\Datamatiker3rdSemester\SDM.CompulsoryTestCases.Tests\SDM.CompulsoryTestCases.Service\
