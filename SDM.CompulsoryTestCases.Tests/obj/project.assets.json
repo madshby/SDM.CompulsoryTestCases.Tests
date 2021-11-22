@@ -4971,11 +4971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
+      "projectUniqueName": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
       "projectName": "SDM.CompulsoryTestCases.Tests",
-      "projectPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
+      "projectPath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
       "packagesPath": "C:\\Users\\harby\\.nuget\\packages\\",
-      "outputPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\obj\\",
+      "outputPath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harby\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4990,8 +4990,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj": {
-              "projectPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj"
+            "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj": {
+              "projectPath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj"
             }
           }
         }

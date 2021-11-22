@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5RRyQi0YZshpnIGdh6UGOrm7kE8uqSbc3sn4p5oH6pIteyCCK2cgKruMMwmLyyp3xBDcwKZg2BaViHUoXbcUQ==",
+  "dgSpecHash": "/0q5zQfZntWBH6idY7tPF7bLBrTAoQuyHN+xgDBiK2sp8b+1H2mIrUfpaHBmmebfKJS5UH3tVIWpZ8RZBjgmhw==",
   "success": true,
-  "projectFilePath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
+  "projectFilePath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harby\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\harby\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

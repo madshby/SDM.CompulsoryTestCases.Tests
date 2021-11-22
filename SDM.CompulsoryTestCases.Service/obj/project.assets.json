@@ -2757,11 +2757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
+      "projectUniqueName": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
       "projectName": "SDM.CompulsoryTestCases.Service",
-      "projectPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
+      "projectPath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
       "packagesPath": "C:\\Users\\harby\\.nuget\\packages\\",
-      "outputPath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\obj\\",
+      "outputPath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harby\\AppData\\Roaming\\NuGet\\NuGet.Config"

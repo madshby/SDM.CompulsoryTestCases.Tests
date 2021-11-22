@@ -16,19 +16,19 @@ namespace SDM.CompulsoryTestCases.Tests
         //Test: GetAverageRateOfMovie Method
         
         [Test]
-        public void TestReviewerWithIdZero()
+        public void TestMovieWithIdZero()
         {
             var input = 0;
             Assert.Throws<InvalidDataException>( () => _reviewService.GetAverageRateOfMovie(input));
         }
         [Test]
-        public void TestReviewerWithNoReviews()
+        public void TestMovieWithNoReviews()
         {
             var input = 5;
             Assert.Throws<InvalidDataException>( () => _reviewService.GetAverageRateOfMovie(input));
         }
         [Test]
-        public void TestAverageReviewerGrade()
+        public void TestAverageMovieGrade()
         {
             var expectedResult = 5d;
             var input = 696969;

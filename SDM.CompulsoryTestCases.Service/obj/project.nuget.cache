@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fR/diIoDp6EJay0ORnAq8SpjUZSVLC3UYo5YNPUFU/lW4W4hKE706uoATjUYEl60NU85WaB2l+FWdn/HdXwduA==",
+  "dgSpecHash": "v68cjRclQYDUc5o47iQxBdbKaM1oFPZ73LdvO6gpdiHZq76W2kQzYlkXVmfN92rzhebEmE3D96+i8l98E33diQ==",
   "success": true,
-  "projectFilePath": "C:\\Datamatiker3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
+  "projectFilePath": "C:\\3rdSemester\\SDM.CompulsoryTestCases.Tests\\SDM.CompulsoryTestCases.Service\\SDM.CompulsoryTestCases.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harby\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\harby\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
